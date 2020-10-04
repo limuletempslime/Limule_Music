@@ -1,0 +1,7 @@
+{
+    "TOKEN": "tokenbot",
+    "YOUTUBE_API_KEY": "Apigoogle",
+    "MAX_PLAYLIST_SIZE": 10,
+    "PREFIX": "prefix",
+    "PRUNING": true
+}
