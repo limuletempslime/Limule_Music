@@ -2,4 +2,4 @@
 
 <hr>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fnew-update-banner-template-isolated-on-white-background-vector-illustration-for-gm1136182862-302512374&psig=AOvVaw2bLlpmWTNnCOVOz1WsKLZ9&ust=1601918646950000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKic55G6m-wCFQAAAAAdAAAAABAh">
+<img src="https://media.istockphoto.com/vectors/new-update-banner-template-isolated-on-white-backgroundvector-for-vector-id1136182862?k=6&m=1136182862&s=170667a&w=0&h=cCKXo9tNtUrjJqpf8u0-05C_Q3sWGM9n34q8t99QvHk=">
