@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+### Limule_Music  [![Discord Bots](https://top.gg/api/widget/status/721760594835013702.svg)](https://top.gg/bot/721760594835013702)  [![Discord Bots](https://top.gg/api/widget/lib/721760594835013702.svg)](https://top.gg/bot/721760594835013702)  [![Discord Bots](https://top.gg/api/widget/owner/721760594835013702.svg?noavatar=true)](https://top.gg/bot/721760594835013702)  📎<a href="https://discord.com/invite/VTtffYB">[Server Support]</a>📎
+ 
+# Bonjour voici un bot de music gratuit avec plein de fonctionnalité comme jouer une playlist de YouTube ou n'importe quelle titre . 
 
-You can use the [editor on GitHub](https://github.com/limuletempslime/Limule_Music/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Voici toute les commandes du bot
+<hr>
+lm!help (h)
+affiche toute les commandes du bot
+<hr>
+lm!loop (l)
+Basculer la boucle musicale
+<hr>
+lm!np 
+Montrer maintenant jouer la chansonlm
+<hr>
+lm!pause 
+Mettre la musique en pause
+<hr>
+lm!play (p)
+Joue une music Youtube
+<hr>
+lm!playlist (pl)
+Lire une playlist sur youtube
+<hr>
+lm!queue (q)
+Montrer la file d’attente de musique jouer
+<hr>
+lm!remove 
+Supprimer la chanson de la file d’attente
+<hr>
+lm!resume (r)
+Reprise de la lecture de la musique
+<hr>
+lm!search 
+Rechercher et sélectionner les vidéos à lire
+<hr>
+lm!shuffle 
+File d’attente de remaniement
+<hr>
+lm!skip (s)
+Skipper la mussique jouer 
+<hr>
+lm!skipto (st)
+Passer au numéro de file d’attente sélectionné
+<hr>
+lm!stop 
+Stopper la mussique
+<hr>
+lm!volume (v)
+Change le volume du bot
+<hr>
 
-### Markdown
+## Nouveauté :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aucune pour L'instants
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/limuletempslime/Limule_Music/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
