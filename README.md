@@ -3,9 +3,7 @@
 # Bonjour voici un bot de music gratuit avec plein de fonctionnalité comme jouer une playlist de YouTube ou n'importe quelle titre . 
 
 
-# Voici toute les commandes du bot
-<hr>
-La liste de toute les commandes !
+Voici toute les commandes du bot
 <hr>
 lm!help (h)
 affiche toute les commandes du bot
@@ -52,3 +50,5 @@ Stopper la mussique
 lm!volume (v)
 Change le volume du bot
 <hr>
+
+
