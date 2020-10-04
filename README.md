@@ -53,5 +53,5 @@ Change le volume du bot
 
 ## Nouveauté :
 
-Aucune pour L'instants
+Bientôt le début de la  <a href="https://github.com/limuletempslime/Limule_Music/blob/main/nouveauterV2.md">V2</a>
 
