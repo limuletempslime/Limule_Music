@@ -51,4 +51,7 @@ lm!volume (v)
 Change le volume du bot
 <hr>
 
+## Nouveauté :
+
+Aucune pour L'instants
 
