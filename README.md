@@ -1,4 +1,9 @@
-## Limule_Music  [![Discord Bots](https://top.gg/api/widget/status/721760594835013702.svg)](https://top.gg/bot/721760594835013702)  [![Discord Bots](https://top.gg/api/widget/lib/721760594835013702.svg)](https://top.gg/bot/721760594835013702)  [![Discord Bots](https://top.gg/api/widget/owner/721760594835013702.svg?noavatar=true)](https://top.gg/bot/721760594835013702)  📎<a href="https://discord.com/invite/VTtffYB">[Server Support]</a>📎
+[![Discord Bots](https://top.gg/api/widget/status/721760594835013702.svg)](https://top.gg/bot/721760594835013702)  [![Discord Bots](https://top.gg/api/widget/lib/721760594835013702.svg)](https://top.gg/bot/721760594835013702)  [![Discord Bots](https://top.gg/api/widget/owner/721760594835013702.svg?noavatar=true)](https://top.gg/bot/721760594835013702)  
+
+
+## Limule_Music 
+
+📎<a href="https://discord.com/invite/VTtffYB">[Server Support]</a>📎
  
 # Bonjour voici un bot de music gratuit avec plein de fonctionnalité comme jouer une playlist de YouTube ou n'importe quelle titre . 
 
