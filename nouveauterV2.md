@@ -1,8 +1,3 @@
-  <head>
-    <!-- Place your kit's code here -->
-    <script src="https://kit.fontawesome.com/58b0682623.js" crossorigin="anonymous"></script>
-  </head>
-  
 # Nouveauté V2 - Limule_Music
 
 <hr>
@@ -12,13 +7,18 @@
 ### création d'un site web pour toute les nouveautés avec les nouvelles commandes avec des commandes premium et avec un dashboard 
 
 <hr>
+
 <img src="https://droplr.com/wp-content/uploads/2020/05/iStock-1175691444.jpg">
+
 <hr>
 
 
 ### Avec l'amélioration du code entier cella prendra du temps donc le bot restera en V1 jusqu'a la fin du code pour la V2
-<i class="fas fa-angle-double-right"></i>
-<hr>
-<img  src="https://nudatasecurity.com/wp-content/uploads/2020/09/iStock-1042793818.jpg">
+
 <hr>
 
+<img  src="https://nudatasecurity.com/wp-content/uploads/2020/09/iStock-1042793818.jpg">
+
+<hr>
+
+## Début du projet le Premier Jour des vacances d'octobre 
