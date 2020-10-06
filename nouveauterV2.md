@@ -21,4 +21,6 @@
 
 <hr>
 
-## Début du projet le Premier Jour des vacances d'octobre 
+## Début du projet le Premier Jour des vacances d'octobre
+
+### Petit nouveauté le code du bot V2 sera visible par tous est vous pourrez l'utiliser sur votre serveur !
